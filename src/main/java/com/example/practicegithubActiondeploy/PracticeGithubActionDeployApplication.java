@@ -8,7 +8,7 @@ public class PracticeGithubActionDeployApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticeGithubActionDeployApplication.class, args);
-		System.out.println(111);
+		System.out.println(1113);
 	}
 
 }
